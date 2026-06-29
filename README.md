@@ -1,13 +1,3 @@
-Since this is your **3rd Semester Java Project** and your repository contains:
-
-* `GradingSystemGUI.java`
-* `Screenshot1.png`
-* `Screenshot2.png`
-* `Screenshot3.png`
-* `Screenshot4.png`
-
-here is a professional `README.md` for GitHub:
-
 # 🎓 Student Grading System GUI
 
 ## 📌 3rd Semester Java Project
@@ -157,5 +147,3 @@ Noida Institute of Engineering and Technology (NIET)
 ---
 
 ⭐ If you found this project useful, consider giving it a star on GitHub!
-
-This README will make your repository look professional and suitable for semester submissions, internships, and portfolio projects.
